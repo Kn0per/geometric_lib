@@ -1,10 +1,13 @@
+
 # Math formulas
 ## Area
-- Circle: S = πR²
+
 - Rectangle: S = ab
 - Square: S = a²
-
+- triangle S = a*h/2
 ## Perimeter
-- Circle: P = 2πR
+
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
+- triangle P = a+b+c
+# создание функций, которые выдают площади и периметры фигур
